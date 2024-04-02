@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning Rust, C, & parts of emualtion.
 - 🤖 Currently grinding out KOTOR, Repubic Commandos, & Bioshock Franchise
 - 📫 How to reach me (Currently Working Alone)
-- ⚡ Fun fact: I love MTN. Dew and a good whiskey
+- ⚡ Fun fact: I love MTN. Dew, a good whiskey, and Red Bull
 - 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+- Current Projects:
+  * Cold War Era FPS
+  * Emulator
  
 
 <!---
