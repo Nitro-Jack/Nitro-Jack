@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nitro-Jack
 - 👀 I’m interested in retro emulation, gaming, along with learning secure coding. 
-- 🌱 I’m currently learning Rust, C, & parts of emualtion.
 - 📫 How to reach me (Currently Working Alone)
 - ⚡ Fun fact: I'm fueled by sugar. 
 - 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
