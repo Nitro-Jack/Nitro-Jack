@@ -5,7 +5,6 @@
 - Current Projects:
   * Cold War Era FPS (Story Planning ATM)
   * Linux Application
-  * Graphic Designs for University & Personal Brand
  
 
 <!---
