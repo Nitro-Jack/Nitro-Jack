@@ -3,7 +3,7 @@
 - 📫 How to reach me (Currently Working Alone)
 - 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 - Current Projects:
-  * Cold War Era FPS (Story Planning ATM)
+  * Linux Automation Scripts
   * Linux Application
  
 
