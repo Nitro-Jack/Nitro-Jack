@@ -4,7 +4,6 @@
 - 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 - Current Projects:
   * Linux Automation Scripts
-  * Linux Application
  
 
 <!---
