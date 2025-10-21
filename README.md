@@ -6,7 +6,8 @@
    - C++ (I don't work in massive Code Bases)
 - 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 - Current Projects:
-  * Linux Automation Scripts
+  * Linux Automation Scripts for cyber competitions
+  * Configuring network for MACCDC Practice 
  
 
 <!---
