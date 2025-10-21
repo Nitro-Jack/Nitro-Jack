@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Nitro-Jack
 - 👀 I’m interested in retro emulation, gaming, along with learning secure coding. 
 - 📫 How to reach me (Currently Working Alone)
+- Favorite Languages Include:
+   - Bash
+   - C++ (I don't work in massive Code Bases)
 - 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 - Current Projects:
   * Linux Automation Scripts
